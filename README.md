@@ -1,156 +1,158 @@
-# Hi 👋, I'm Tauseef Ahmad
+<div align="center">
 
-🚀 Full Stack Mobile App Developer (React Native)  
-📍 Islamabad, Pakistan  
-💼 3+ Years Experience | Available for Freelance & Remote Work  
+<!-- 🔥 Clean Typing Header (Professional style) -->
+<img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&size=26&center=true&vCenter=true&width=850&lines=Tauseef+Ahmad;Full+Stack+Mobile+Developer+(React+Native);3%2B+Years+Experience;Building+Scalable+Mobile+Applications" />
 
-🔗 Portfolio: https://reactnative-portfolio.vercel.app/  
-🔗 LinkedIn: https://www.linkedin.com/in/tauseef-ahmad-a2107523b/  
+<br/>
+
+### 🚀 Full Stack Mobile App Developer (React Native)  
+📍 Islamabad, Pakistan • 💼 3+ Years Experience • 🌍 Available for Remote Work  
+
+---
+
+### 🔗 Portfolio | LinkedIn | Contact
+<a href="https://reactnative-portfolio.vercel.app/">Portfolio</a> • 
+<a href="https://www.linkedin.com/in/tauseef-ahmad-a2107523b/">LinkedIn</a> • 
+📧 tauseef.coder@gmail.com  
+
+---
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m a **Full Stack Mobile Engineer** with 3+ years of experience building and scaling production-level mobile applications for iOS & Android.
+I am a **Full Stack Mobile Engineer** specializing in building **scalable, production-grade mobile applications** for iOS and Android.
 
-💡 I specialize in:
-- High-performance React Native apps  
-- Real-time systems (chat, notifications)  
-- Payment systems (Stripe, in-app purchases, subscriptions)  
-- Scalable backend architecture (Node.js + MongoDB + Firebase)  
+I focus on:
+- High-performance React Native applications  
+- Scalable backend systems (Node.js + MongoDB + Firebase)  
+- Real-time features (chat, notifications, live updates)  
+- Payment systems (Stripe, RevenueCat, In-App Purchases)  
+- Data-driven product development using analytics  
 
-⚡ I’ve worked on apps with **100K+ downloads**, improved performance by **30%**, and reduced crashes by **25%**.
+📊 Experience impact:
+- 100K+ users reached across apps  
+- 30% performance improvement  
+- 25% crash reduction through optimization  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 📱 Mobile Development
-- React Native, Expo
-- JavaScript, TypeScript
-- Native Modules
+<p align="center">
 
-### 🌐 Full Stack (MERN)
-- React.js / Next.js  
-- Node.js / Express.js  
-- MongoDB  
+<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,firebase,nextjs,aws,git,github" />
 
-### 🔥 Backend & Cloud
-- Firebase (Firestore, Cloud Functions)
-- REST APIs & WebSockets (Socket.IO)
-- AWS S3  
-
-### 💳 Payments & Subscriptions
-- Stripe
-- RevenueCat
-- In-App Purchases  
-
-### 📍 Advanced Features
-- Google Maps & Geolocation  
-- Push Notifications  
-- Real-time Chat Systems  
-- Camera (Vision Camera)  
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
----
+### 📱 U4ria App (Private Production Project)
 
-### 📱 U4ria App (Private Project)
+🔒 Source code is private (client confidentiality)
 
-🔒 Source code is private due to client confidentiality  
+📊 **100K+ downloads (iOS + Android)**  
+🎥 Demo: https://www.youtube.com/watch?v=GyLeyEzSay4  
 
-📊 **100K+ downloads on Play Store & App Store**
-
-🔗 **Live Links:**  
-- Android: https://play.google.com/store/apps/details?id=com.u4ria&hl=en  
+🔗 Links:
+- Android: https://play.google.com/store/apps/details?id=com.u4ria  
 - iOS: https://apps.apple.com/pk/app/u4ria-mindfulness-calm/id6466178488  
-- Website: https://www.u4riahub.com/  
-- 🎥 Demo: https://www.youtube.com/watch?v=GyLeyEzSay4  
+- Website: https://www.u4riahub.com  
 
 ---
 
-## 🚀 Overview
+## 🎯 Project Overview
 
-U4ria is a **mindfulness & wellness mobile application** designed to help users improve mental health through guided experiences, content, and personalized engagement.
+U4ria is a **mindfulness & wellness mobile application** designed to improve mental well-being through guided experiences, content, and personalized engagement.
 
 ---
 
-## 🎯 Key Features
+## ⚙️ Key Features
 
-- Subscription-based system using RevenueCat  
+- Subscription system (RevenueCat)  
 - Real-time backend (Node.js + MongoDB)  
-- User activity tracking & analytics using Amplitude  
 - Push notifications & engagement flows  
+- User analytics & tracking using Amplitude  
 - High-performance React Native UI  
 
 ---
 
-## 🧑‍💻 My Role
+## 🧑‍💻 My Contribution
 
-### 📱 Mobile App Development
-- Built full cross-platform app (iOS & Android) using React Native  
-- Integrated subscriptions & in-app purchases  
-- Optimized performance and reduced crashes  
+### 📱 Mobile Development
+- Built full cross-platform app (iOS & Android)  
+- Implemented subscriptions & in-app purchases  
+- Optimized performance & memory usage  
 
-### 🧠 Analytics & Tracking
-- Implemented user event tracking (onboarding, engagement, retention)  
+### 📊 Analytics & Product Tracking
+- Implemented event tracking (onboarding, engagement, retention)  
 - Built funnels & retention analysis using Amplitude  
-- Improved product decisions using analytics data  
+- Improved product decisions using data insights  
 
-### 🖥 B2B Admin Panel
-- Built complete admin dashboard for business operations  
-- Managed users, subscriptions, and app content  
-- Developed backend APIs (Node.js + MongoDB)  
-- Enabled real-time monitoring and control system  
+### 🖥 Admin Panel (B2B System)
+- Built complete business dashboard  
+- Managed users, subscriptions & content  
+- Developed REST APIs (Node.js + MongoDB)  
+- Enabled real-time monitoring system  
 
 ---
 
 ## 📈 Impact
-- 📲 Scaled to **100K+ users**  
-- 🚀 Improved performance by **30%**  
-- 🐞 Reduced crashes by **25%**  
-- 📊 Increased engagement using analytics-driven decisions  
+
+<div align="center">
+
+📲 100K+ Users  
+🚀 30% Performance Improvement  
+🐞 25% Crash Reduction  
+📊 Data-driven product optimization  
+
+</div>
 
 ---
+
+## 💼 Additional Projects
 
 ### 📱 Muslim Planner App
-- Firebase + Google Calendar sync  
-- Prayer time based on location  
+- Firebase + Google Calendar integration  
+- Prayer time system based on location  
 - Multi-language support  
 
----
-
 ### 📱 MJ Fitness App
-- MERN backend system  
-- Subscription + payment webhooks  
+- MERN stack backend  
+- Subscription & payment system  
 - Real-time chat + AWS S3 storage  
 
----
-
 ### 📱 Pre-Check Point App
+- QR-based reporting system  
 - Role-based authentication  
-- QR-based reports + PDF generation  
-- Driver logs & tracking system  
+- Driver tracking & logs  
 
 ---
 
-## 📈 What I Bring
+## 📌 What I Deliver
 
-✅ Clean & scalable code  
-✅ Production-ready mobile apps  
-✅ Strong UI/UX focus  
-✅ Real-world feature implementation  
-✅ End-to-end development (Frontend + Backend)  
+✔ Production-ready mobile apps  
+✔ Clean and scalable architecture  
+✔ Strong UI/UX focus  
+✔ End-to-end development (Frontend + Backend)  
+✔ Performance optimization  
 
 ---
 
-## 📫 Let's Work Together
+## 📫 Contact
 
-💼 Fiverr: https://www.fiverr.com/tauseef_devpro/develop-android-and-ios-mobile-app-using-react-native  
 📧 Email: tauseef.coder@gmail.com  
+💼 Fiverr: https://www.fiverr.com/tauseef_devpro  
+🌐 Portfolio: https://reactnative-portfolio.vercel.app  
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+<div align="center">
+
+⭐ *If you like my work, consider starring my repositories*
+
+</div>
