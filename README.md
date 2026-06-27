@@ -6,7 +6,7 @@
 <br/>
 
 ### 🚀 Full Stack Mobile App Developer (React Native)  
-📍 Islamabad, Pakistan • 💼 3+ Years Experience • 🌍 Available for Remote Work  
+📍 Islamabad, Pakistan • 💼 4+ Years Experience • 🌍 Available for Remote Work  
 
 ---
 
